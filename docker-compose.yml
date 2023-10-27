@@ -21,7 +21,7 @@ services:
       PERSISTENCE_DATA_PATH: '/var/lib/weaviate'
       DEFAULT_VECTORIZER_MODULE: 'multi2vec-bind'
       ENABLE_MODULES: 'multi2vec-bind'
-      CLUSTER_HOSTNAME: 'node1'
+      # CLUSTER_HOSTNAME: 'node1'
   multi2vec-bind:
     image: semitechnologies/multi2vec-bind:imagebind
     environment:
