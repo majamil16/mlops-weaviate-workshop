@@ -19,6 +19,8 @@
 
 - Copy your API key from [here](https://platform.openai.com/account/api-keys).
 
+Update .env with api keys
+
 ## **GitHub Setup:**
 
 1. Login to your GitHub account.
