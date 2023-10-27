@@ -1,1 +1,1 @@
-# mlops-weviate-workshop
+# mlops-weaviate-workshop
